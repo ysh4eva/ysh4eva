@@ -1,6 +1,6 @@
-<table>
+<table align="center">
 <tr>
-<td width="230">
+<td width="auto">
 
 <img src="https://github.com/ysh4eva/ysh4eva/blob/main/me.jpeg" width="220"/>
 
@@ -82,30 +82,31 @@ Features
 * Pixel world
 ---
 
-# 📊 GitHub Stats
+<table align="center">
+<tr>
+<td>
 
-<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysh4eva&show_icons=true&theme=tokyonight"/>
-</p>
 
----
+</td>
 
-# 📈 Top Languages
+<td>
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ysh4eva&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysh4eva&theme=tokyonight"/>
-</p>
+
+</td>
+</tr>
+
+
+</table>
+
 
 ---
+## 📅 Contribution Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ysh4eva&theme=tokyo-night)
+
+---
 # 👀 Visitors
 
 <p align="center">
@@ -117,7 +118,7 @@ Features
 # 🔗 Connect With Me
 
 💼 LinkedIn
-https://www.linkedin.com/in/vyshnavi-mudigonda-69a4621b1/
+https://www.linkedin.com/in/vyshnavi-mudigonda/
 
 💻 GitHub
 https://github.com/ysh4eva
