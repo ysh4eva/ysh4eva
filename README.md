@@ -86,14 +86,11 @@ Features
 <table align="center">
 <tr>
 <td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysh4eva&show_icons=true&theme=tokyonight"/>
-
-</td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysh4eva&show_icons=true&theme=tokyonight&hide_border=true" /></td>
 
 <td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ysh4eva&theme=tokyonight"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=ysh4eva&theme=tokyonight)
 
 </td>
 </tr>
@@ -105,8 +102,7 @@ Features
 ---
 ## 📅 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ysh4eva&theme=tokyo-night)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ysh4eva&theme=tokyo-night&area=true&hide_border=true&cache=1)
 ---
 # 👀 Visitors
 
