@@ -1,81 +1,104 @@
-# 👋 Hi, I'm Vyshnavi Mudigonda
+<table>
+<tr>
+<td width="230">
+
+<img src="https://github.com/ysh4eva/ysh4eva/blob/main/me.jpeg" width="220"/>
+
+</td>
+
+<td>
+
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Development+Engineer;Full+Stack+Developer;React+%7C+Node+Developer;Building+Interactive+Experiences&font=Fira%20Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22">
+<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;React+%7C+Node+Engineer;Building+Creative+Projects&center=true&width=500&height=40">
+</p>
+
+<p align="center">
+Late night coder • Quiet builder • Turning ideas into products
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+
+
+---
+
+# 🖥 Developer Desk
+
+```
+🌙 Time: Late night debugging hours
+💻 Laptop: React + Node projects open
+☕ Fuel: Coffee and curiosity
+🐶 Companions: Two dogs supervising the code
+📦 Current Mission: Building cool developer tools
+```
+
+---
+
+# 👩‍💻 About Me
+
+Hi, I'm **Vyshnavi**, a fullstack developer.
+
+☕ I turn coffee into bugs  
+🐛 then debug them  
+🚀 and ship working products
+
+---
+
+# ⚔ Developer Character
+
+```
+Name: Vyshnavi
+Class: Fullstack Developer
+Level: Senior SDE
+Main Skills: React • Node • MongoDB • Next.js
+Special Ability: Turning complex problems into simple solutions
+```
+
+---
+
+# 🧰 Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,git,docker,vscode"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 Current Quests
 
-💻 Senior Software Development Engineer (SDE L1)
-⚛️ Specializing in **React, Next.js, Node.js**
-🧠 Passionate about **product engineering and building scalable systems**
+## 🎮 Interactive Game Portfolio
 
-
-Currently exploring:
-
-* AI integrated applications
-* interactive developer portfolios
-* scalable fullstack architectures
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Interactive Game Portfolio
-
-A **2D pixel RPG-style portfolio** where visitors explore a game world to discover projects and experience.
+A pixel-style portfolio where visitors explore a game world instead of scrolling a normal website.
 
 Features
 
-* WASD character movement
-* interactive project areas
-* dialogue system
-* pixel environment
+* Character movement
+* Interactive project areas
+* Dialogue system
+* Pixel world
+---
 
-Tech
-
-React • Vite • SCSS • Canvas
-
-
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysh4eva&show_icons=true&theme=tokyonight"/>
 </p>
+
 ---
 
-## 🔥 GitHub Streak
+# 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ysh4eva&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysh4eva&theme=tokyonight"/>
@@ -83,16 +106,7 @@ React • Vite • SCSS • Canvas
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ysh4eva&layout=compact&theme=tokyonight"/>
-</p>
----
-
-
-
-## 👀 Profile Visitors
+# 👀 Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ysh4eva&color=blue"/>
@@ -100,19 +114,27 @@ React • Vite • SCSS • Canvas
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 💼 LinkedIn
-https://www.linkedin.com/in/vyshnavi-mudigonda/
+https://www.linkedin.com/in/vyshnavi-mudigonda-69a4621b1/
 
 💻 GitHub
 https://github.com/ysh4eva
 
 ---
 
-## ⚡ Fun Fact
+# 🌟 Developer Philosophy
 
-I like turning **developer portfolios into interactive experiences** — like building a **game instead of a normal website**.
+```
+Build things.
+Break things.
+Learn things.
+Repeat.
+```
 
 ---
 
+<p align="center">
+🌙 Thanks for visiting my little coding corner
+</p>
