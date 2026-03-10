@@ -66,24 +66,7 @@ Tech
 
 React • Vite • SCSS • Canvas
 
----
 
-### 📊 AI Risk Radar Dashboard
-
-AI powered dashboard that analyzes client accounts and predicts account risk using support metrics and feedback.
-
-Features
-
-* AI risk scoring
-* confidence metrics
-* analytics dashboard
-* trend insights
-
-Tech
-
-React • Node.js • MongoDB • OpenAI
-
----
 
 ## 📊 GitHub Stats
 
