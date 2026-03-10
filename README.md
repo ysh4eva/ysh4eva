@@ -73,7 +73,7 @@ Special Ability: Turning complex problems into simple solutions
 ## 🎮 Interactive Game Portfolio
 
 A pixel-style portfolio where visitors explore a game world instead of scrolling a normal website.
-
+https://pixel-explorer.vercel.app/
 Features
 
 * Character movement
