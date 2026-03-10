@@ -11,9 +11,7 @@
 💻 Senior Software Development Engineer (SDE L1)
 ⚛️ Specializing in **React, Next.js, Node.js**
 🧠 Passionate about **product engineering and building scalable systems**
-🚀 Revamped a **legacy Angular platform into React + Next.js**
-📊 Built complex features like **Create Survey module**
-🌍 Worked with global teams across **Dubai and Africa**
+
 
 Currently exploring:
 
