@@ -86,11 +86,11 @@ Features
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysh4eva&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ysh4eva&show_icons=true&theme=tokyonight&hide_border=true"&cache=1 /></td>
 
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ysh4eva&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ysh4eva&theme=tokyonight&cache=1)
 
 </td>
 </tr>
